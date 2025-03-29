@@ -1,4 +1,5 @@
 ## Hi there 👋
+A summery of Git basics
 # GitHub Cheat Sheet
 
 ## 📚 **Basic Git Commands**
